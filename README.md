@@ -1,2 +1,4 @@
 # touch_probe
-Python module for controlling touch probe (e.g. 3DTouch) on Raspberry Pi
+Raspberry Pi に接続したタッチプローブ (例: 3DTouch) を操作する Python モジュールです。
+
+![wiring](img/wiring.png)
