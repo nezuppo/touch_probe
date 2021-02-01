@@ -1,4 +1,4 @@
 # touch_probe
-Raspberry Pi に接続したタッチプローブ (例: 3DTouch) を操作する Python モジュールです。
+Raspberry Pi に接続したタッチプローブ (例: 3DTouch) を操作する Python パッケージです。
 
 ![wiring](img/wiring.png)
