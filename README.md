@@ -76,7 +76,7 @@ Raspberry Pi に接続したタッチプローブで 3D プリンターのベッ
 
 <br/>
 
-# touch_prbe モジュールの使い方
+# touch_probe モジュールの使い方
 
 ## 配線
 
